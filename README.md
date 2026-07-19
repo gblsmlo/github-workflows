@@ -121,6 +121,14 @@ integration paths. See the
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) before changing the reusable contract.
 
+## Roadmap
+
+Future governance, consumer compatibility, and versioned-release slices are
+specified in
+[`docs/roadmap/governance-and-automation.md`](docs/roadmap/governance-and-automation.md).
+They are design-ready but intentionally not implemented until their activation
+criteria are met.
+
 ## License
 
 [MIT](LICENSE)
