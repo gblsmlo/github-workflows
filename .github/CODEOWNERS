@@ -1,0 +1,13 @@
+# Default ownership for every repository change.
+* @gblsmlo
+
+# Workflow contracts and dependency automation are security-sensitive.
+/.github/workflows/ @gblsmlo
+/.github/dependabot.yml @gblsmlo
+
+# Changes to validation and security policy require an explicit owner review.
+/scripts/validate.sh @gblsmlo
+/SECURITY.md @gblsmlo
+
+# Architecture decisions govern the public reusable-workflow contract.
+/docs/decisions/ @gblsmlo
